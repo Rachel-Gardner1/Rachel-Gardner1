@@ -1,6 +1,27 @@
 # Welcome to my page!!
+<!--
+Basic Introduction - what you are doing, learning, what career you want, hobbies and interests
+-->
 
 
+<!--
+Currently working on
+-->
+
+
+<!--
+Currently learning --- on ---site
+-->
+
+
+<!--
+Skills - strongest and what you're trying to improve on
+-->
+
+
+<!--
+Featured projects
+-->
 
 <!--
 **Rachel-Gardner1/Rachel-Gardner1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
