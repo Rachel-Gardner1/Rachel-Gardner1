@@ -1,14 +1,20 @@
+
 # 🌇 The Big Page 🌇 - Rachel :)
 <!--
 Basic Introduction - what you are doing, learning, what career you want, hobbies and interests
 -->
-| Introduction | Entry |
+
+| Basics | Details |
 | --- | --- |
 | Name 📛 | Rachel Gardner |
 | Based 📌 | Bexley, London, UK |
-| Looking For 🏢 | Data-related, Administrative |
-| Recent Developments 📰 | *Level 3 Data Technician Bootcamp* <br> with **Leep Talent** <br> ____________________________________ <br> ***08/09/2026*** |
+| Looking For 🏢 | Data-related, Administrative,<br> Software Development |
+| Recent Developments 📈 | *Level 3 Data Technician Bootcamp* <br> with **Leep Talent** <br>____________________________________ <br> ***Completed 08/09/2026*** <br><br><br><br> *Level 2 IT and Digital Skills Course* <br> with **Leep Talent** <br>____________________________________ <br> ***27/05/2026***|
+| Working Towards 📂 | - *Foundational C# With Microsoft <br> &nbsp;&nbsp;Certification* <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Began ***27/08/2026***|
 
+Hiya. I'm Rachel. As you can gather from the table above, I am a curious and invested beginner in data and software. <br> 
+I began this year wondering if I would be stuck looking for retail roles. But after my progress with Leep Talent, <br>
+I can see myself following a Data career, studying the insights, and trying to understand the science behind it.
 
 
 <!--
