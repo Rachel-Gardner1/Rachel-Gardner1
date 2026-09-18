@@ -17,7 +17,6 @@ I began this year wondering if I would be stuck looking for retail roles. But af
 I can see myself following a Data career, studying the insights, and trying to ask the right questions to understand it. <br>
 
 
-
 <!--
 Currently working on
 -->
@@ -26,6 +25,10 @@ Currently working on
 <!--
 Currently learning --- on ---site
 -->
+
+## Currently Learning 📑
+- Foundational C# With Microsoft Certification
+  -  
 
 
 <!--
@@ -36,6 +39,12 @@ Skills - strongest and what you're trying to improve on
 <!--
 Featured projects
 -->
+
+
+<!--
+Fun facts, How to reach me, Pronouns
+-->
+
 
 
 <!--
