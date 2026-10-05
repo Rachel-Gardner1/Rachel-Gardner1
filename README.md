@@ -17,7 +17,8 @@ I began this year wondering if I would be stuck looking for retail roles. But af
 I can see myself following a Data career, studying the insights, and trying to ask the right questions to understand it. <br>
 <br></br>
 I am building up my data skills with every opportunity I can grab. After taking the *Level 2 IT and Digital Skills* <br>
-and *Level Data Technician* courses with Leep Talent, 
+and *Level Data Technician* courses with Leep Talent, I have recently begun the *Associate Data Scientist in Python Certification* <br>
+with DataCamp.
 
 <!--
 Currently working on
@@ -37,21 +38,36 @@ Currently learning --- on ---site
     - [x] Data Manipulation with pandas
     - [ ] Joining Data with pandas
     - [ ] ...
+
   - Projects
     - [x] Investigating Netflix Movies
 
 <img width="40%" alt="Screenshot 2026-10-05 014206" src="https://github.com/user-attachments/assets/1c015a97-f681-4db2-b6ec-eba691998d71" />
 <img width="41.5%" alt="Screenshot 2026-10-05 014226" src="https://github.com/user-attachments/assets/4eba0645-a665-4c20-ac0b-2b118de68499" />
 
+As seen above, I have gotten roughly 13% through the Associate Data Scientist in Python track with DataCamp, and <br>
 
 <!--
 Skills - strongest and what you're trying to improve on
 -->
+## Skills
+
+| Strongest | Improving Upon |
+| --- | --- |
+| Seeing Insights | Python |
+| Teamwork | SQL |
+| Organisation | Confidence |
+| Excel |  |
+| Data Visualisation |  |
 
 
 <!--
 Featured projects
 -->
+
+## Featured Projects
+
+
 
 
 <!--
