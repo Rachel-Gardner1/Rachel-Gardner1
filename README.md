@@ -81,6 +81,7 @@ Fun facts, How to reach me, Pronouns
 - I do cross-stitching as way of exploring my creativity
 - Writing is my biggest passion in life, and it will always be something I work on
 - I don't know how to ride a bike
+- I find space fascinating
 
 | Top Songs to Play While Working |
 | --- |
