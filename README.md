@@ -16,13 +16,12 @@ Hiya. I'm Rachel. As you can gather from the table above, I am a curious and inv
 I began this year wondering if I would be stuck looking for retail roles. But after my progress with Leep Talent, <br>
 I can see myself following a Data career, studying the insights, and trying to ask the right questions to understand it. <br>
 <br></br>
+I am building up my data skills with every opportunity I can grab. After taking the *Level 2 IT and Digital Skills* <br>
+and *Level Data Technician* courses with Leep Talent, 
 
 <!--
 Currently working on
 -->
-
-
-I am building up my data skills with every opportunity I can grab. After taking the *Level 2 IT and Digital Skills* and *Level Data Technician* courses with Leep Talent, 
 
 
 <!--
@@ -40,8 +39,10 @@ Currently learning --- on ---site
     - [ ] ...
   - Projects
     - [x] Investigating Netflix Movies
-    - [ ] Exploring NYC Public School Test Result Scores
-    - [ ] ...
+
+<img width="40%" alt="Screenshot 2026-10-05 014206" src="https://github.com/user-attachments/assets/1c015a97-f681-4db2-b6ec-eba691998d71" />
+<img width="41.5%" alt="Screenshot 2026-10-05 014226" src="https://github.com/user-attachments/assets/4eba0645-a665-4c20-ac0b-2b118de68499" />
+
 
 <!--
 Skills - strongest and what you're trying to improve on
